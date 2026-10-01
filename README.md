@@ -1,5 +1,3 @@
-# Megana Bobba
-
 Hello! I'm a software engineer. I spent five years at Amazon building apps,
 platforms, and system services for Alexa devices on embedded Linux.
 
